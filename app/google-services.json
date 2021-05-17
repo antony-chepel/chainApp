@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382643451534",
+    "project_id": "chainreaction-b20c6",
+    "storage_bucket": "chainreaction-b20c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382643451534:android:5795eed2bebcb7f6963bdf",
+        "android_client_info": {
+          "package_name": "com.tony_fire.chainreaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382643451534-qkv39l83bij807a55dh4bdmg0ctsflgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa82H75ShnnappAmivb8SHf8spYAIw-2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382643451534-qkv39l83bij807a55dh4bdmg0ctsflgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
